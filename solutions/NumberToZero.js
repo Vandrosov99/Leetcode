@@ -2,6 +2,7 @@
  * @param {number} num
  * @return {number}
  */
+// 1342
 let numberOfSteps = function (num) {
     let result = 0;
 

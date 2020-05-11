@@ -3,6 +3,7 @@
  * @param {string} S
  * @return {number}
  */
+// 771
 var numJewelsInStones = function (J, S) {
     let result = 0;
 
